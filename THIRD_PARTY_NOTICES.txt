@@ -1,0 +1,26 @@
+THIRD PARTY NOTICES
+
+This software incorporates material from third parties.
+
+================================================================================
+
+any-llm
+Copyright (c) Mozilla AI
+
+This software includes code derived from the any-llm project
+(https://github.com/mozilla-ai/any-llm), which is licensed under
+the Apache License, Version 2.0.
+
+You may obtain a copy of the Apache License at:
+http://www.apache.org/licenses/LICENSE-2.0
+
+================================================================================
+
+The following dependencies are included in this software:
+
+- openai: MIT License
+- pydantic: MIT License  
+- httpx: BSD License
+- rich: MIT License
+
+For the full text of these licenses, please see the respective project repositories.
